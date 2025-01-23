@@ -24,7 +24,7 @@ width:100px;
     height:50px;
     width:90%;
     background-size: cover;
-    background-image: url(nav-logo.jpg);
+    background-image: url("/image/nav-logo.jpg");
 }
 .border{
     border:1.5px solid transparent;
@@ -123,7 +123,7 @@ align-items: center;
 .hero-section{
     height:250px;
     background-size: cover;
-background-image: url("herosection-image.jpg");
+background-image: url("image/herosection-image.jpg");
 margin-top:100px;
 
 }
